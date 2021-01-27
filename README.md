@@ -43,9 +43,9 @@ Pythons supports _Integers, Floating Points, Strings, Booleans and Collections (
     Python 3.8.2 (default, May 17 2020, 02:53:34)  
     [GCC 9.3.0] on linux
     Type "help", "copyright", "credits" or "license" for more information.
-    >>> name = "Timothy Wangwe"     # String
+    >>> name = "Polycarp Etyang"     # String
     >>> name
-    'Timothy Wangwe'
+    'Polycarp Etyang'
 ```
 
 ### Boleans
@@ -83,21 +83,21 @@ Pythons supports _Integers, Floating Points, Strings, Booleans and Collections (
 ### Tuples  
 
 ```python
-    >>> full_name = ('Timothy', 'Wangwe')
+    >>> full_name = ('Polycarp ', 'Etyang')
     >>> full_name
-    ('Timothy', 'Wangwe')
+    ('Polycarp', 'Etyang')
 ```
 
 ### Lists
 
 ```python
     >>> interests = [               # List
-    ...             'Data Science',  
-    ...             'Basketball',  
-    ...             'Sci-fi Movies'
+    ...             'Web Design',  
+    ...             'Music',  
+    ...             'AI'
     ...             ]  
     >>> interests
-    ['Data Science', 'Basketball', 'Sci-fi Movies']
+    ['Web Design', 'Music', 'AI']
 ```
 
 ### Dictionary
@@ -111,7 +111,7 @@ Pythons supports _Integers, Floating Points, Strings, Booleans and Collections (
     ...     "Interests":  interests,
     ... }
     >>> summary
-    {'Name': 'Timothy Wangwe', 'Age': 20, 'Birth year': 2000, 'Height': 1.78, 'Interests': ['Data Science', 'Basketball', 'Sci-fi Movies']}
+    {'Name': 'Polycarp Etyang', 'Age': 19, 'Birth year': 2001, 'Height': 1.78, 'Interests': ['Web Design', 'Music', 'AI']}
     >>>  
 ```  
 
